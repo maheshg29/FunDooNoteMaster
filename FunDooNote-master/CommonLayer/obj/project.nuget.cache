@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fYwixZzKw0GmuKwkHa0jxPtBK5f3vakMAWAGOLd5MhgDhUvyV7nHEYtV147lnhuBF28vQx55phplr6Qbxck4Dg==",
+  "success": true,
+  "projectFilePath": "E:\\BridgeLabz\\notetest\\FunDooNote-master\\FunDooNote-master\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
